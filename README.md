@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syaukat Azman</h1>
 <body>
   <div align="center">
-  <img src="http://www.reddit.com/r/reactiongifs/comments/3wyh7h/mrw_i_get_a_huge_wall_of_text_rant_as_a_reply_on/" width="300px">
+  <img src="![me](https://github.com/syaukat/gif-saitama/blob/main/giphy.gif)" width="300px">
 </div></body>
 
 <h3 align="center">A passionate learner from Malaysia</h3>
