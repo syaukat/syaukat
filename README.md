@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syaukat Azman</h1>
+<div align="center">
+  <img src="https://giphy.com/gifs/jj1xut6ZsokKI" width="300px">
+</div>
 <h3 align="center">A passionate learner from Malaysia</h3>
 
 - 🌱 I’m currently learning **Website development**
