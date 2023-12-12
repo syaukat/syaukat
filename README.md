@@ -2,9 +2,9 @@
 <body>
   <br>
   <div align="center">
-  <img src="https://tenor.com/view/saitama-gif-21360634" width="300px">
+  <img src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif" width="300px"/>
   </div>
-</div></body>
+</body>
 
 <h3 align="center">A passionate learner from Malaysia</h3>
 
