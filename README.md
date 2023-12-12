@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syaukat Azman</h1>
 <body>
+  <br>
   <div align="center">
   <img src="![me](https://github.com/syaukat/gif-saitama/blob/main/giphy.gif)" width="300px">
+  </div>br>
 </div></body>
 
 <h3 align="center">A passionate learner from Malaysia</h3>
